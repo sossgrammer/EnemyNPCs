@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings": [
+    {"name":"player","order":2,"path":"folders/Sprites/player.yy",},
+    {"name":"enemy","order":3,"path":"folders/Sprites/enemy.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_player_wall","order":5,"path":"sprites/spr_player_wall/spr_player_wall.yy",},
+    {"name":"spr_player_slide","order":4,"path":"sprites/spr_player_slide/spr_player_slide.yy",},
+    {"name":"spr_enemy","order":2,"path":"sprites/spr_enemy/spr_enemy.yy",},
+    {"name":"spr_player_fall","order":1,"path":"sprites/spr_player_fall/spr_player_fall.yy",},
+    {"name":"obj_enemy","order":2,"path":"objects/obj_enemy/obj_enemy.yy",},
+    {"name":"spr_tiles","order":1,"path":"sprites/spr_tiles/spr_tiles.yy",},
+    {"name":"spr_player_jump","order":2,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
+    {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"spr_enemy_jump","order":1,"path":"sprites/spr_enemy_jump/spr_enemy_jump.yy",},
+    {"name":"ts_tiles","order":4,"path":"tilesets/ts_tiles/ts_tiles.yy",},
+    {"name":"spr_player_run","order":3,"path":"sprites/spr_player_run/spr_player_run.yy",},
+  ],
+}
