@@ -1,7 +1,7 @@
 {
   "FolderOrderSettings": [
-    {"name":"player","order":2,"path":"folders/Sprites/player.yy",},
     {"name":"enemy","order":3,"path":"folders/Sprites/enemy.yy",},
+    {"name":"player","order":2,"path":"folders/Sprites/player.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_player_wall","order":5,"path":"sprites/spr_player_wall/spr_player_wall.yy",},
@@ -15,5 +15,6 @@
     {"name":"spr_enemy_jump","order":1,"path":"sprites/spr_enemy_jump/spr_enemy_jump.yy",},
     {"name":"ts_tiles","order":4,"path":"tilesets/ts_tiles/ts_tiles.yy",},
     {"name":"spr_player_run","order":3,"path":"sprites/spr_player_run/spr_player_run.yy",},
+    {"name":"obj_control","order":3,"path":"objects/obj_control/obj_control.yy",},
   ],
 }

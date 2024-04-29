@@ -2,10 +2,18 @@
 
 //Get player inputs
 
-key_left = keyboard_check(vk_left);
-key_right = keyboard_check(vk_right);
-key_jump = keyboard_check_pressed(vk_space);
-key_slide = keyboard_check_pressed(vk_control);
+if (!disabled) {
+	key_left = keyboard_check(vk_left);
+	key_right = keyboard_check(vk_right);
+	key_jump = keyboard_check_pressed(vk_space);
+	key_slide = keyboard_check_pressed(vk_control);
+} else {
+	key_left = 0;
+	key_right = 0;
+	key_jump = 0;
+	key_slide = 0;
+}
+
 
 //Calc movoment horiz
 walljumpdelay = max(walljumpdelay-1,0);
